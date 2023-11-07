@@ -37,15 +37,6 @@
           "role": "anonymous"
         }
       ]
-    },
-    "Account": {
-      "source": "dbo.Account",
-      "permissions": [
-        {
-          "actions": ["*"],
-          "role": "anonymous"
-        }
-      ]
     }
   }
 }
